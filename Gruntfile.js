@@ -34,6 +34,21 @@ module.exports = function(grunt) {
         },
         command: 'jekyll -B -w serve'
       }
+    },
+    rsync: {
+      options: {
+        args: ["--verbose"],
+        exclude: [".git*","*.scss","node_modules"],
+        recursive: true
+      },
+      production: {
+        options: {
+          src: "_site/",
+          dest: "breiteseite.net/public/blog/",
+          host: "http@breiteseite.net",
+          syncDestIgnoreExcl: true
+        }
+      }
     }
   });
 
@@ -41,6 +56,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-shell');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-concat');
+  grunt.loadNpmTasks('grunt-rsync');
 
-  grunt.registerTask('default', ['shell:build', 'cssmin']);
+  grunt.registerTask('default', ['shell:build', 'cssmin', 'rsync:production']);
 };

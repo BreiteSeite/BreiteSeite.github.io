@@ -6,7 +6,7 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="/css/screen.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/screen.css">
 
     </head>
     <body>
@@ -14,8 +14,8 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/impressum.html">impressum</a>
+            <a class="extra" href="{{ site.url }}/">home</a>
+            <a class="extra" href="{{ site.url }}/impressum.html">impressum</a>
           </div>
 
           {{ content }}
