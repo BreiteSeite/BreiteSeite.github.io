@@ -1,17 +1,6 @@
 ---
 layout: post
 title: IPs im Access-Log suchen und gruppieren/zählen
-categories:
-- Computer
-tags:
-- linux
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  robotsmeta: index,follow
 ---
 <h2>Vorwort</h2>
 Oftmals ist es nützlich, häufig vorkommende IP-Adresse aus dem access.log zu extrahieren. Zum Beispiel um festzustellen, ob es sich um einen <a href="http://de.wikipedia.org/wiki/Denial_of_Service">DoS-Angriff</a> handelt.

@@ -1,19 +1,6 @@
 ---
 layout: post
 title: nginx rewrite Regel für wordpress w3 total cache plugin
-categories:
-- Computer
-tags:
-- minify
-- nginx
-- wordpress
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  title: nginx rewrite rule for wordpress w3 total cache plugin
-  robotsmeta: index,follow
 ---
 Das W3 Total Cache Plugin für Wordpress kann CSS und Javascript Dateien von Wordpress minimieren ("Minify").  Im W3T-Optionsdialog zu finden unter: <em>Rewrite <acronym title="Uniform Resource Locator">URL</acronym> structure (If disabled, <acronym title="Cascading Style Sheet">CSS</acronym> and <acronym title="JavaScript">JS</acronym> embeddings will use GET variables instead of "fancy" links.)</em>
 

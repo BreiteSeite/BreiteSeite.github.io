@@ -1,18 +1,6 @@
 ---
 layout: post
 title: 'Sony Vaio: Windows 7 Installation leichtgemacht (unbekanntes Basissystemgerät)'
-categories:
-- Computer
-tags:
-- sony
-- vaio
-- windows 7
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  robotsmeta: index,follow
 ---
 Wer Windows 7 auf einem Sony Vaio Notebook installiert, der sollte sich auf eine anstrengende Treibersuche vorbereiten. Speziell beim Modell VGN-NW11S bin ich einen Eintrag im Geräte Manager gestolpert, der sich "<strong>Basissystemgerät</strong>" schimpft. Dazu einen Treiber zu finden ist schwer. Also nach der Hardware-ID gesucht:
 <pre><strong>PCI\VEN_1180&amp;DEV_0592&amp;SUBSYS_9056104D&amp;REV_12</strong></pre>

@@ -1,22 +1,6 @@
 ---
 layout: post
 title: php segfault (Speicherzugriffsfehler) in libpcre at Zend_Db update/query
-categories:
-- Computer
-tags:
-- php
-- segfault
-- zend
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  keywords: php, zend, zf, zend_db, zend_db_statement, zend_db_update, segfault, speicherzugriffsfehler,
-    pcre, libpcre
-  title: php segfault (Speicherzugriffsfehler) in libpcre at Zend_Db update/query
-  robotsmeta: index,follow
 ---
 Wer mithilfe von <a href="http://framework.zend.com/manual/de/zend.db.table.html#zend.db.table.update">Zend_Db_Statement</a> versucht einen großen Datensatz in der Datenbank zu aktualisieren:
 <pre lang="php">$db->update($data, $where);</pre>

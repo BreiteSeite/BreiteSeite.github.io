@@ -1,21 +1,6 @@
 ---
 layout: post
 title: wordpress + nginx + php-fpm = Bad Gateway 502
-categories:
-- Computer
-tags:
-- '502'
-- bad gateway
-- nginx
-- php
-- php-fpm
-- wordpress
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  robotsmeta: index,follow
 ---
 Wer ein Server-Setup mit PHP-FPM, nginx und Wordpress-Blogs betreibt, der hat eventuell das Problem, dass nach dem Veröffentlichen eines Artikels keine PHP-Seite mehr lädt und nginx nur noch mit einem "<strong>502 Bad Gateway</strong>" antwortet.
 

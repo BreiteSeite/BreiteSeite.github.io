@@ -1,18 +1,6 @@
 ---
 layout: post
 title: Adobe Flash ohne Administratorrechte updaten (Firefox)
-categories:
-- Computer
-tags:
-- firefox
-- flash
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  robotsmeta: index,follow
 ---
 Die größten Bedenken bezgl. der Sicherheit des Firefox-Browsers habe ich persönlich ja nicht wegen Firefox selbst, sondern wegen dem Flash-Plugin von Adobe. Da gab's ja schon des öfteren die <a href="http://www.heise.de/security/suche/?q=adobe+flash+l%C3%BCcke+-shockwave+-reader+-acrobat&amp;search_submit=Suchen&amp;rm=search&amp;channel=security">ein oder andere Meldung bezgl. Sicherheitslücken</a>.
 

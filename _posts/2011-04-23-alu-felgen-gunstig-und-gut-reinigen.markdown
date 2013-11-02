@@ -1,17 +1,6 @@
 ---
 layout: post
 title: Alu-Felgen günstig und gut reinigen
-categories:
-- Auto
-tags:
-- felgen
-- putzen
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  robotsmeta: index,follow
 ---
 So als kleiner Tipp nebenbei: Da jetzt der Sommer beginnt, putzt der ein oder andere ja auch wieder vermehrt am Auto herum. Doch meist ist die lästigste Arbeit, die schönen Alus vom Bremsstaub zu befreien. Doch das muss kein stundenlanger Putzkrampf mehr sein.
 

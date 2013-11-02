@@ -1,17 +1,6 @@
 ---
 layout: post
 title: /usr/bin/scan channels.conf UTF-8 Problem Me-TV
-categories:
-- Computer
-tags:
-- dvb
-- linux
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  robotsmeta: index,follow
 ---
 Me-TV - ein DVB-Client für Linux - benötigt eine channels.conf, also eine Liste mit allen verfügbaren Channels. Meine Umgebung ist Archlinux mit Gnome3. Da es mit der <a href="https://wiki.archlinux.org/index.php/Locale#Gnome-terminal_doesn.27t_support_UTF-8">UTF-8 Unterstützung für gnome-terminal</a> etwas hapert, hier eine kurze Anleitung, wie ihr trotzdem eine UTF-8 konforme channels.conf erstellen könnt.
 
@@ -34,5 +23,4 @@ Und schon habt ihr eine channels.conf.utf8 im UTF-8 Format.
 channels.conf.utf8: UTF-8 Unicode text</pre>
 Das Ergebnis: Me-TV kann die Datei einlesen, und dem Fernsehabend steht nix mehr im Wege:
 
-<a href="http://www.breiteseite.net/blog/usrbinscan-channels-conf-utf-8-problem-me-tv/bildschirmfoto/" rel="attachment wp-att-381"><img class="aligncenter size-medium wp-image-381" title="Me-Tv" src="http://www.breiteseite.net/blog/wp-content/uploads/2011/07/Bildschirmfoto-300x161.png" alt="" width="300" height="161" /></a>
-Falls jemand eine Methode kennt, die ohne Konvertierung klappt, lasst es mich in den Kommentaren wissen.
+![Me-TV Screenshot]({{ site.url }}/assets/me-tv-screenshot.jpg)

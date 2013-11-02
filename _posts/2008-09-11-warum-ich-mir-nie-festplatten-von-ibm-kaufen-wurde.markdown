@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Warum ich mir nie Festplatten von IBM kaufen würde
-categories:
-- Computer
-tags:
-- Festplatte
-- IBM
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 Heute auf der Arbeit hieß es, ich solle mal ein paar Festplatten relativ sicher entsorgen. Also jede aufgemacht, Patter genommen, zerkratzt und mehrmals verbogen.
 

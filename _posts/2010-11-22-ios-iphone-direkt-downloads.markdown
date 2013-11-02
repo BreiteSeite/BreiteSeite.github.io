@@ -1,20 +1,6 @@
 ---
 layout: post
 title: iOS iphone direkt downloads
-categories:
-- Computer
-tags:
-- ios apple firmware
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  keywords: ios,4.2,itunes,download,ddl,direct,direkt
-  description: iOS Firmware direkt download ohne iTunes
-  title: ios 4.2 download
-  robotsmeta: index,follow
 ---
 iPhone Firmware ohne iTunes zu downloaden ist nützlich, wenn der heimische Rechner einen langsamen Internetzugang hat und man die Datei woanders schneller herunterladen kann.
 

@@ -1,19 +1,6 @@
 ---
 layout: post
 title: Treiberdownload von Averatec kostenpflichtig
-categories:
-- Computer
-tags:
-- averatec
-- geld
-- laptop
-- notebook
-- paypal
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 Liebe Leserinnen, liebe Leser,
 

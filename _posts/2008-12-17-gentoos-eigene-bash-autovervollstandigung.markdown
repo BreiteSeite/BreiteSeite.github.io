@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Gentoos eigene Bash-Autovervollständigung
-categories:
-- Computer
-tags:
-- bash
-- bashrc
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 Mit zwei kleinen Handgriffen bringt man Gentoo dazu, dass es eine "erweiterte" bash completion hat. So kann man z.B. emerge -av light&lt;Doppel-TAB&gt; drücken und erhält eine Liste aller Pakete, welche mit "light" beginnen (z.B. lighttpd).
 

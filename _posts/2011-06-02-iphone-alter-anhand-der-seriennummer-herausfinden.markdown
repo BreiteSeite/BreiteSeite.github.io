@@ -1,16 +1,6 @@
 ---
 layout: post
 title: iPhone Alter anhand der Seriennummer herausfinden
-categories:
-- Computer
-tags:
-- iphone
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  robotsmeta: index,follow
 ---
 Wer ein iPhone hat, kann mithilfe der Seriennummer des Geräts, das Herstellungsjahr und -woche bestimmen.
 

@@ -1,18 +1,6 @@
 ---
 layout: post
 title: Netgear MR814v2 als Access Point in Betrieb
-categories:
-- Computer
-tags:
-- access point
-- netgear
-- router
-- wlan
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 So,
 

@@ -1,17 +1,6 @@
 ---
 layout: post
 title: 2-Takt Öl dem Diesel beimischen ("panschen")
-categories:
-- Auto
-tags:
-- diesel
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  robotsmeta: index,follow
 ---
 
 Viele tanken ja ARAL Ultimate Diesel oder Shell V-Power um ihren Fahrzeugen etwas Gutes zu tun. Dass zumindest die von den Herstellen als "Wunderkraftstoffe" bezeichneten Ottokraftstoffe keine Verbesserungen bringen, belegt ein <a href="http://www.ohm-hochschule.de/fileadmin/Pressestelle/Fachartikel/Weclas_Nr29_fertig.pdf">PDF-Dokument der Georg-Simon-Ohm-Fachhochschule ("Hochoktan Ottokraftstoffe für Hochleistungsmotoren")</a>. Daher stelle ich mal die Wirkung der "Wunderdiesel" ebenso in Frage. Auch wenn <a href="http://de.wikipedia.org/wiki/Dieselkraftstoff">bei Wikipedia bei der Cetanzahl unterschiedliche Angaben für "normal Diesel" und "ARAL Diesel" angegeben</a> sind. Da dazu keine (unabhängigen) Quellen angegeben sind, würde ich das aber mit Vorsicht genießen.

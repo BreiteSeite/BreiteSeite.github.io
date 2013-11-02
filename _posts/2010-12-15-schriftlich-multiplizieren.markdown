@@ -1,21 +1,6 @@
 ---
 layout: post
 title: schriftlich Multiplizieren
-categories:
-- Sonstiges
-tags:
-- Mathematik
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  keywords: multiplizieren, schriftlich, Mal rechnen,
-  description: neben schriftlichen addieren und subtrahieren zeigt das Video, wie
-    man schriftlich multiplziert
-  title: schriftliches multiplizieren
-  robotsmeta: index,follow
 ---
 Ich dachte immer, schriftlich zu multiplizieren ist nicht so einfach wie z.B. schriftliches addieren oder subtrahieren.
 

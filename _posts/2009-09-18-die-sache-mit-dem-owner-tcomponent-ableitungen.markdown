@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Die Sache mit dem Owner (TComponent Ableitungen)
-categories:
-- Computer
-tags:
-- Delphi
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 Oft steht man vor der Frage: Welchen Owner übergeb ich jetzt beim Erzeugen meines Objekts? Viele von TComponent abgeleiteten Klassen bieten einem den AOwner: TObject Parameter beim Konstruktor an.
 Übergibt man jetzt Self? Application? <strong>nil</strong>?

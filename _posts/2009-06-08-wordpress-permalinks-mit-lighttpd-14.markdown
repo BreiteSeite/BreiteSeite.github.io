@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Wordpress Permalinks mit Lighttpd 1.4
-categories:
-- Computer
-tags:
-- mod_magnet
-- permalinks
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 Hallo,
 

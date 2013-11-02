@@ -1,18 +1,6 @@
 ---
 layout: post
 title: 'ICQ & Co.: unerwünschte/russische Kontaktanfragen blockieren (Miranda)'
-categories:
-- Computer
-tags:
-- IM
-- Miranda
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  robotsmeta: index,follow
 ---
 In ICQ immer mehr zunehmend: Kontaktanfragen von irgendwelchen Spammern. Meist zu erkennen an russischen Namen oder URL-Adressen im ICQ-Profil. Für Nutzer des Messengers Miranda-IM gibt es jedoch Plugins, um den ständig wiederholenden Anfragen aus dem Weg zu gehen.
 

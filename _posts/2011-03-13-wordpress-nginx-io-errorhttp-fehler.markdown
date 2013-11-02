@@ -1,17 +1,6 @@
 ---
 layout: post
 title: 'Wordpress + NGINX: IO Error/HTTP Fehler'
-categories:
-- Computer
-tags:
-- nginx
-- wordpress
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  robotsmeta: index,follow
 ---
 Wer Wordpress in Kombination mit einem nginx Webserver betreibt und große Bilder (&gt; 1MB) in seine Mediathek hochladen möchte, der wird eventuell vom Wordpress-Uploader mit einem "IO Fehler" oder "HTTP Error" konfrontiert.
 

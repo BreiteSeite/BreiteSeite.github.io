@@ -1,19 +1,6 @@
 ---
 layout: post
 title: nginx www zu non-www redirect und vice versa
-categories:
-- Computer
-tags:
-- nginx
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  keywords: nginx
-  description: Einheitliches URL-Redirecting mit nginx.
-  robotsmeta: index,follow
 ---
 Zu einer Internetpräsenz gehört ein einheitliches URL-Format. Einige entscheiden sich für die nicht-www-Version, Andere für die www-Version einer Domain.
 

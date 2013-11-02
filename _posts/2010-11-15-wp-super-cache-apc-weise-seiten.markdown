@@ -1,19 +1,6 @@
 ---
 layout: post
 title: WP Super Cache + APC = weiße Seiten
-categories:
-- Computer
-tags:
-- apc
-- eAccelerator
-- php
-- wp-supercache
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
 ---
 Wenn Wordpress (3.0) mit aktivierter Super Cache Erweiterung und unter  PHP 5.3 und APC wird,  so erhält man nach einiger Zeit (bei mir nichtmal einen Tag) nur noch weiße Seiten, welche von PHP geparst werden.
 

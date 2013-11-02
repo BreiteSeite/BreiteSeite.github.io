@@ -1,16 +1,6 @@
 ---
 layout: post
 title: HP DeskJet 6840 via Windows-Samba in CUPS
-categories:
-- Computer
-tags:
-- cups
-- HP DeskJet 8640
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
 ---
 Hallo liebe Leser,
 

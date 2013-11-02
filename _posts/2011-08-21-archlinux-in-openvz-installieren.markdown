@@ -1,19 +1,6 @@
 ---
 layout: post
 title: Archlinux in OpenVZ installieren
-categories:
-- Computer
-tags:
-- glibc
-- kernel
-- linux
-- openvz
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  robotsmeta: index,follow
 ---
 Wer einen vServer auf Basis von Archlinux besitzt (proPlay.de bietet bspw. ein Image für ArchLinux an), wird nach dem ersten Systemupdate über die "<strong>FATAL: Kernel too old</strong>" Meldung stoßen, welche beim Aufruf jeder binary erscheint.
 

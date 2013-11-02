@@ -1,18 +1,6 @@
 ---
 layout: post
 title: grep vs. pcregrep
-categories:
-- Computer
-tags:
-- benchmark
-- linux
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _wp_old_slug: ''
-  robotsmeta: index,follow
 ---
 Wer (komplexe) Perl-Kompatible reguläre Ausdrücke auf der Linux-Konsole ausführen möchte, der hat zwei Möglichkeiten.
 <ol>

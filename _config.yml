@@ -1,3 +1,5 @@
 name: BreiteSeites Blog
 markdown: redcarpet
 pygments: true
+url: http://www.breiteseite.net/blog
+permalink: :title
