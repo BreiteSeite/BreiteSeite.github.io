@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/breiti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://breiteseite.net
+  * I am breiti (https://keybase.io/breiti) on keybase.
+  * I have a public key with fingerprint 296C 595B AEC9 1DD4 532E  1343 FF23 D419 7691 37A9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101337d44c617165b330606df56a78636ff635a02f5301fd50d0c8023a63191b1700a",
+            "fingerprint": "296c595baec91dd4532e1343ff23d419769137a9",
+            "host": "keybase.io",
+            "key_id": "ff23d419769137a9",
+            "kid": "0101337d44c617165b330606df56a78636ff635a02f5301fd50d0c8023a63191b1700a",
+            "uid": "9b882cd8dff1f1222e602eb24a5eb400",
+            "username": "breiti"
+        },
+        "service": {
+            "hostname": "breiteseite.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460393129,
+    "expire_in": 157680000,
+    "prev": "3071478162097a91dede1fac64e31805473731a0fdc2357f2341bc19bc15abf4",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNFAnicrVJ9TFVlGOfC5TvDYJGAm+tQxAXC857Pe67TCZsiM68iCGOgl/PxHu4R
+uBfOvYCAl9SiWrQhtXFZGiFSu6COArmtCfKhIxSZ8SGCZTAqJQItFpLNpHNYbf3R
+n73b+757n+f3+73P89tzdZ2XR4BmNXI8rKSWbtEM9TmLPTICx1sqEM4qlCGGCiQP
+rl0wX4A2uylPEhADggIU4DgtEARPARpQJIfjKIVSgkhSLK2ncEoUKZxkUUwkcRSI
+AokKKK9HMZylcMAADtAoyiJxiChZcqFcKEsWuyKLMRRPMiTHQp4BgkCQOAYBTuCi
+iOECARiaYgBOs4xCNFttKkMpjmNtMF6yKjHlYVor7z/w/3PdxWtyDKfXY7ygF0QR
+iADDMEihGOQwgiUhR6CoCrRB2cIWQAXNyVCyS4gjDlFiJRIPVVvVPv6dhzb1iLdA
+u0IulK12K2/NV5Jmu73QoHLtZYUquBRypr9lTJxkERQfFUIJlG2S1YIYgILk7ZKq
+CwgKxRkcYEwcAo8USjI0SSqCpCk9qiz1G1iiSOIoDQhaDygMZRTTgAAFCESWpwiI
+Az1KEjRO44BFRYHHcJJWPCYAxwNG2STLiQSiNlZksSIGUimTzVUkbVKuhbUXyxBx
+9Pdlaz00AR4+3p7qfHkE+K//Z+pejA/6c+Pvi+85b33xyPuNnPH+qJl3e8N8h7JP
+PagOHyg/YCwO/fpQnaP2y6aWOV3r+R8OROxpvpJUGbrUOav7uULrzh4w+zclBd5o
+e7arq7HZdexextnU+tH45My5bc+dYS7vrKwZCc90OhN+DU4zmvS6usHOw7Xw4NWH
+VfXXF2Ru37qOhkmXrTwqcJIvrdxy6+OG6ejT0+bXhleSjOcPXoKO+Wu3Y5y62Cfa
+CjHNllx6t3xmLtHUbczbsqMHzXH84kqwRKePBW1Y2bsnBXXVCDEju3RNT7f55T1B
+fH1y3j+8/E549cV72R+ENml0jduPGxvoVaSgff+xD9uSs4qa64+WLG2dZotDNsy2
+/NS6Xe8Z0ev146B2q5wytdy3mO+Z6t8+vOlcdARqm2PwNHfqriP3DXp3+fONi2Ox
+L33iM1DaVTX69mRDNbXU+03k3mBfbf6djw7R7vnBxInXY/e3vPAZeCz/dtbvkjtp
++PvNReO9VbrTJ8QdmqxTG4OYt75aOHYy8vYz6R2PZvunNh+/ICddcLWPzjvcZzbd
+dCWGTHn1LaPf+XVcN69fnS8aMRe8ElUdlOidcLI7Zmdia1tf3R+dn1558+61iyuP
+xyaG/Ge+3Zf5+YMJI5N2rmZ3gTajO9yMJPie8ClHXl24c6MtJbUnfaqs9uX7mrCQ
+iaNZoubm056Hzt3T6REz/ZeD/wKqqLzv
+=n9Fi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/breiti
+
+==================================================================
+
