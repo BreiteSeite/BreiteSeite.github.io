@@ -1,5 +1,5 @@
 name: BreiteSeites Blog
-markdown: redcarpet
+markdown: kramdown 
 url: https://www.breiteseite.net
 permalink: :title
 exclude: ['Gruntfile.js', 'node_modules', 'package.json']
