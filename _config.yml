@@ -1,6 +1,5 @@
 name: BreiteSeites Blog
 markdown: redcarpet
-pygments: true
-url: https://breiteseite.github.io
+url: https://www.breiteseite.net
 permalink: :title
 exclude: ['Gruntfile.js', 'node_modules', 'package.json']
