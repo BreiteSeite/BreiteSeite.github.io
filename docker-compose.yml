@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  jekyll:
+    image: "ruby:2.7.3"
+    working_dir: /app
+    command: "/bin/sh -c 'bundle install && jekyll serve  --config _config.yml,_config_local.yml'"
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/app
